@@ -32,3 +32,5 @@
 
 .button:disabled{opacity:.65;cursor:wait}
 
+
+.hero-video{display:block;width:100%;aspect-ratio:16/9;object-fit:contain;background:#071958;border-radius:12px;box-shadow:0 12px 36px #11528512}
